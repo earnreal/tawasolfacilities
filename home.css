@@ -481,7 +481,7 @@
 }
 .home-text01 {
   color: var(--dl-color-gray-900);
-  max-width: 600px;
+  max-width: 400px;
   text-align: center;
   border-color: var(--dl-color-gray-900);
   border-width: 1px;
